@@ -1,0 +1,6 @@
+function_config:
+  runtime: python312
+  memory_mb: 1000
+  timeout_seconds: 180
+  cpu: 1
+  instance_count: 1
