@@ -83,7 +83,7 @@ All related queries and AI-pipeline proposals are stored in the folder: `./bigqu
 
 ---
 
-### 🧩 Challenge 4 – AI-Based Enhancements
+## 🧩 Challenge 4 – AI-Based Enhancements
 
 
 1. What other insights do you think would add value to the business that can be extracted using at least one of these tables?
