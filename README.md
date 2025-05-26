@@ -77,11 +77,14 @@ These scripts can:
 
 ---
 
-## 🧩 Challenge 3 – AI-Based Enhancements
+## 🧩 Challenge 3 – BigQuery queries
 
-All related queries and AI-pipeline proposals are stored in the folder: `./bigquery/challenge_3/`
+All related queries and AI-pipeline proposals are stored in the folder: `./bigquery/challenge_3`
 
-## Challenge 4
+---
+
+### 🧩 Challenge 4 – AI-Based Enhancements
+
 
 1. What other insights do you think would add value to the business that can be extracted using at least one of these tables?
 Pick up to three, and explain why they might be useful and how we can get them. (If more tables are needed, list them.)
